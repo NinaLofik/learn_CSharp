@@ -2,7 +2,7 @@
 
 В этой папке находятся программы C# начального уровня, которые демонстрируют, как работать с вводом и выводом в консоли.
 
-Все примеры написаны в рамках курса Stepik по основам C# и охватывают такие ключевые темы, как:
+Все примеры были написаны мной во время курса «Основы C#» на stepik.org и охватывают такие ключевые темы, как:
 - Консольный ввод/вывод
 - Работа со строками
 - Многострочный ввод
@@ -25,7 +25,7 @@ Practice: Input and Output in C#
 
 This folder contains beginner-level C# programs that demonstrate how to work with input and output in the console.
 
-All examples are written as part of the Stepik course on C# fundamentals and cover key topics like:
+All examples were written by me during the C# fundamentals course on stepik.org and cover key topics such as:
 - Console input/output
 - String manipulation
 - Multi-line input
