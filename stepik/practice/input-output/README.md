@@ -1,9 +1,9 @@
 Практика: ввод и вывод в C#
-=====
+
 Practice: Input and Output in C#
 
 В этой папке находятся программы C# начального уровня, которые демонстрируют, как работать с вводом и выводом в консоли.
-=====
+
 This folder contains beginner-level C# programs that demonstrate how to work with input and output in the console.
 
 Все примеры написаны в рамках курса Stepik по основам C# и охватывают такие ключевые темы, как:                                           
@@ -12,7 +12,7 @@ This folder contains beginner-level C# programs that demonstrate how to work wit
 - Многострочный ввод                                                      
 - Форматирование вывода                                                    
 - Пользовательские разделители
-=====
+
 All examples are written as part of the Stepik course on C# fundamentals and cover key topics like:
 - Console input/output
 - String manipulation
@@ -21,7 +21,7 @@ All examples are written as part of the Stepik course on C# fundamentals and cov
 - Custom separators
 
 Каждый пример поясняется двуязычными комментариями (русский + английский) для закрепления терминологии и ясности во время обучения.
-=====
+
 Each example is explained with bilingual comments (Russian + English) to reinforce terminology and clarity during learning.
 
 Включены примеры:                                                          
@@ -30,7 +30,7 @@ Each example is explained with bilingual comments (Russian + English) to reinfor
 3. Повторение трех строк ввода
 4. Обратный порядок вывода
 5. Пользовательский разделитель между вводами
-=====
+
 Examples included:
 1. Greet the user by name
 2. Favorite book message
@@ -39,5 +39,5 @@ Examples included:
 5. Custom separator between inputs
 
 Файл: [input-outputExamples.cs](learn_CSharp/stepik/practice/input-output/input-outputExamples.cs) — объединил все примеры в одну программу для более легкого тестирования и проверки.
-=====
+
 File: [input-outputExamples.cs](learn_CSharp/stepik/practice/input-output/input-outputExamples.cs) — combined all examples into one program for easier testing and revision.
