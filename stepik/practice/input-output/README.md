@@ -17,7 +17,7 @@
 - Обратный порядок вывода
 - Пользовательский разделитель между вводами
 
-Файл: [input-outputExamples.cs](stepik/practice/input-output/input-outputExamples.cs) — объединил все примеры в одну программу для более легкого тестирования и проверки.
+Файл: [input-outputExamples.cs](input-outputExamples.cs) — объединил все примеры в одну программу для более легкого тестирования и проверки.
 
 ===========
 
@@ -40,4 +40,4 @@ Examples included:
 - Reverse-order output
 - Custom separator between inputs
 
-File: [input-outputExamples.cs](stepik/practice/input-output/input-outputExamples.cs) — combined all examples into one program for easier testing and revision.
+File: [input-outputExamples.cs](input-outputExamples.cs) — combined all examples into one program for easier testing and revision.
