@@ -5,7 +5,7 @@
 
 using System;
 
-public class floatingPointDoubleExamplesStepik
+public class characterExamplesMicrosoftLearn
 {
     public static void Main()
     {
