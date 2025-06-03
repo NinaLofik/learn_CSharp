@@ -12,7 +12,8 @@ public class floatingPointExamplesMicrosoftLearn
 
         // Пример 1: тип float (одинарная точность)
         Console.WriteLine("Пример 1: тип float (одинарная точность)");
-        float floatValue = 3.14159f;
+        // Чтобы создать float литерал, добавьте после числа букву F или f
+        float floatValue = 3.14159f; 
         Console.WriteLine($"Значение float: {floatValue}");
         Console.WriteLine();
 
@@ -24,7 +25,8 @@ public class floatingPointExamplesMicrosoftLearn
 
         // Пример 3: тип decimal (высокая точность, для финансов)
         Console.WriteLine("Пример 3: тип decimal (высокая точность, для финансов)");
-        decimal decimalValue = 3.1415926535897932384626433832m;
+        // Чтобы создать decimal литерал, добавьте букву M или m после числа
+        decimal decimalValue = 3.1415926535897932384626433832m; 
         Console.WriteLine($"Значение decimal: {decimalValue}");
         Console.WriteLine();
 
