@@ -74,5 +74,3 @@ public class doubleFloatingPointExamplesStepik
       // Чтобы избежать этого, можно позже добавить форматирование.
     }
 }
-
-      
