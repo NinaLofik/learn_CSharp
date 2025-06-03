@@ -1,3 +1,8 @@
+// Примеры работы с литералами с плавающей запятой на C#,
+// написанные в процессе прохождения курса (Microsoft Learn).
+// Все примеры объединены в один класс
+// для удобства тестирования.
+
 using System;
 
 public class floatingPointExamplesMicrosoftLearn
