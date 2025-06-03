@@ -5,7 +5,7 @@
 
 using System;
 
-public class doubleFloatingPointExamplesStepik
+public class floatingPointDoubleExamplesStepik
 {
     public static void Main()
     {
