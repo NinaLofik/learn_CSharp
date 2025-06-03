@@ -6,7 +6,7 @@
 
 using System;
 
-public class IntegerInputExamplesStepik
+public class IntegerExamplesStepik
 {
     public static void Main()
     {
