@@ -74,6 +74,13 @@ public class floatingPointExamplesMicrosoftLearn
         Console.WriteLine($"Modulus of 200 / 5 : {200 % 5}"); // output: Modulus of 200 / 5 : 0
         Console.WriteLine($"Modulus of 7 / 5 : {7 % 5}");     // output: Modulus of 7 / 5 : 2
         Console.WriteLine();
+
+        // Пример 9: преобразование температуры из градусов Фаренгейта в Цельсии
+        Console.WriteLine("Пример 9: преобразование температуры из градусов Фаренгейта в Цельсии");
+        int fahrenheit = 94;
+        decimal celsius = (fahrenheit - 32m) * (5m / 9m);
+        Console.WriteLine("The temperature is " + celsius + " Celsius.");
+        Console.WriteLine();
     }
 }
 
