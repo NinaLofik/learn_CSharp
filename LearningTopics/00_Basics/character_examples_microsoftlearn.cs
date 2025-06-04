@@ -5,7 +5,7 @@
 
 using System;
 
-public class characterExamplesMicrosoftLearn
+public class CharacterExamplesMicrosoftLearn
 {
     public static void Main()
     {
