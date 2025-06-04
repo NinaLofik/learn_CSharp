@@ -5,11 +5,10 @@
 
 using System;
 
-public class floatingPointDoubleExamplesStepik
+public class FloatingPointDoubleExamplesStepik
 {
     public static void Main()
     {
-      
       // Пример 1: площадь круга
       Console.WriteLine("Пример 1: площадь круга");
       Console.Write("Введите радиус круга и нажмите Enter: ");
