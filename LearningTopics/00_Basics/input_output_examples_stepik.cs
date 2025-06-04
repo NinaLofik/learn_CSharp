@@ -9,7 +9,6 @@ public class InputOutputExamplesStepik
 {
     public static void Main()
     {
-      
         // Пример 1: приветсвие (ввод строки с клвиатуры и вывод сообщения)
         Console.WriteLine("Пример 1: приветствие пользователя");
         Console.Write("Введите ваше имя и нажмите Enter: ");
