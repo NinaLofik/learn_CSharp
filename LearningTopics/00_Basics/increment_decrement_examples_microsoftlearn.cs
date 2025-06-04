@@ -5,7 +5,7 @@
 
 using System;
 
-public class incrementDecrementExamplesMicrosoftLearn
+public class IncrementDecrementExamplesMicrosoftLearn
 {
     public static void Main()
     {
@@ -80,4 +80,4 @@ public class incrementDecrementExamplesMicrosoftLearn
         Console.WriteLine($"Значение d после декремента: {d}");
         Console.WriteLine();
     }
-}      
+} 
