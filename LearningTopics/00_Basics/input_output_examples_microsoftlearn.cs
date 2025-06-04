@@ -9,7 +9,6 @@ public class InputOutputExamplesMicrosoftLearn
 {
     public static void Main()
     {
-      
       // Пример 1: отображение литеральных и переменных значений
       Console.WriteLine("Пример 1: отображение литеральных и переменных значений");
       string name = "Bob";
@@ -27,8 +26,3 @@ public class InputOutputExamplesMicrosoftLearn
       Console.WriteLine();
     }
 }
-
-
-
-
-
