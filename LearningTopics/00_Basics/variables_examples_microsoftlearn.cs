@@ -5,11 +5,10 @@
 
 using System;
 
-public class variablesExamplesMicrosoftLearn
+public class VariablesExamplesMicrosoftLearn
 {
     public static void Main()
     {
-
       // Пример 1: переназначение значения переменной int
       Console.WriteLine("Пример 1: переназначение значения переменной");
       // Объявляем переменную и присваиваем ей значение
