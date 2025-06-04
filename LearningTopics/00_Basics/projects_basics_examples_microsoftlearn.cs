@@ -5,7 +5,7 @@
 
 using System;
 
-public class projectsBasicsExamplesMicrosoftLearn
+public class ProjectsBasicsExamplesMicrosoftLearn
 {
     public static void Main()
     {
