@@ -10,7 +10,6 @@ public class IntegerExamplesStepik
 {
     public static void Main()
     {
-      
         // Пример 1: квадрат числа
         Console.WriteLine("Пример 1: квадрат числа");
         Console.Write("Введите целое число и нажмите Enter: ");
