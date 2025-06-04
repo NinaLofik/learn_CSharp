@@ -143,7 +143,7 @@ public class characterExamplesMicrosoftLearn
         Console.WriteLine();
 
         // Пример 14: использование escape-последовательностей символов, string, Юникода и интерполяции строк
-        Console.WriteLine("Пример 13: использование escape-последовательностей символов, string, Юникода и интерполяции строк");
+        Console.WriteLine("Пример 14: использование escape-последовательностей символов, string, Юникода и интерполяции строк");
         string projectName = "ACME";
         string englishLocation = $@"c:\Exercise\{projectName}\data.txt";
         Console.WriteLine($"View English output:\n\t\t{englishLocation}\n");
