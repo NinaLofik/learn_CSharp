@@ -10,7 +10,6 @@ public class IntegerExamplesMicrosoftLearn
 {
     public static void Main()
     {
-      
         // Пример 1: оператор сложения +
         Console.WriteLine("Пример 1");
         int firstNumber = 12;
@@ -59,4 +58,4 @@ public class IntegerExamplesMicrosoftLearn
         Console.WriteLine(value2); // output: 35
         Console.WriteLine();
     }
-} 
+}
