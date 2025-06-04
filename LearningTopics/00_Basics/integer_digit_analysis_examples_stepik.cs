@@ -11,7 +11,6 @@ public class IntegerDigitAnalysisExamplesStepik
 {
     public static void Main()
     {
-      
       // Пример 1: вывод последней цифры натурального числа
       Console.WriteLine("Пример 1: вывод последней цифры натурального числа");
       Console.Write("Введите целое число и нажмите Enter: ");
@@ -55,4 +54,4 @@ public class IntegerDigitAnalysisExamplesStepik
       Console.WriteLine();
 
     }
-}     
+}
