@@ -5,11 +5,10 @@
 
 using System;
 
-public class booleanExamplesMicrosoftLearn
+public class BooleanExamplesMicrosoftLearn
 {
     public static void Main()
     {
-
         // Пример 1: логический литерал true
         Console.WriteLine("Пример 1: логический литерал true");
         bool isSunny = true;
